@@ -45,6 +45,7 @@ public class SpiralTraversal {
     public static void main(String[] args) {
         SpiralTraversal st = new SpiralTraversal();
         int[][] matrix = {
+
                 {1, 2, 3},
                 {4, 5, 6},
                 {7, 8, 9}
